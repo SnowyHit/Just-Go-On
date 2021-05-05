@@ -15,3 +15,7 @@ Other Script files mostly used for basic functions that wasn't a requirement in 
 
 Endless Run mode was the funniest thing to do in this project , its just a prefab depot which chooses randomly between a lenght 5-7 , and just puts them in a line. You get randomly generated map for each time you play it. Endless Prefabs is the chunks i make for the random selection , the codes including endless tag , is for the endless mode.
 There is one bad uses of prefabs and that is , endless mode is the same as normal levels , but i manually changed the UI and GameOverUI , finishScreenUI , so when they change , the change does not apply to the endless mode .(mostly).
+
+There's some ingame screenshots. I didnt actually use any sprites , just some colors and post processing bloom effect.
+
+
